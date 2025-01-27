@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files
+.vs/
+.vscode/
+.idea/
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Npm packages
+node_modules/
+
+# Ignore JetBrains Rider project files
+.idea/
